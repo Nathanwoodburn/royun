@@ -1,0 +1,93 @@
+[
+    {
+        "address": "365EMWUYtE3VB372X2WwpHu8CBEtvTE49X1XUNFXN9J1",
+        "mint": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+        "owner": "38vmfjwD8UgQPddf4GMhmpxTrRYhEKht46Y3wF9rFjC3",
+        "delegated_amount": 0,
+        "frozen": false
+    },
+    {
+        "address": "3BNyKtTa5EhKLjPSbRUDkqMXM2SrQ9Y2cQDb16G8H8nY",
+        "mint": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+        "owner": "BUCspHF3Sj2z4Uno4BYbC481zb6zuRhuaYS3niTDiyaP",
+        "delegated_amount": 0,
+        "frozen": false
+    },
+    {
+        "address": "4yKcfZDddgZth2rwfzCFm5wvT8dMvBRyHAXTYdgS2PvV",
+        "mint": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+        "owner": "8GjBqcHFjaytAZUL2LkwFXjY7Riqp1nve2bU1ivVibka",
+        "delegated_amount": 0,
+        "frozen": false
+    },
+    {
+        "address": "8rLnoyCfzuC9B8iD2pB4rJfMX6AHi3SrZ36bVb6kXuT6",
+        "mint": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+        "owner": "CmJp4tJPyS2cm4M1Yiz7qErYreHyqdSBmWqUUMuALfMw",
+        "delegated_amount": 0,
+        "frozen": false
+    },
+    {
+        "address": "8sCewv2JaJsoZdd22PyzRzU4BCdNiPBK6jPiNuKvLfxF",
+        "mint": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+        "owner": "9bWFQeCVWuFEDmXp47QKCf6XCko8uyicpS4QnTP7cddn",
+        "delegated_amount": 0,
+        "frozen": false
+    },
+    {
+        "address": "9nAuxziM2V4Tzu7K2paZTS8jNW66FxmPZ5QfuPNqdRwC",
+        "mint": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+        "owner": "9HuT6HGSRrT73fS67AhxkWERN4AjgonsTGS7AmvNqESh",
+        "delegated_amount": 0,
+        "frozen": false
+    },
+    {
+        "address": "AbEmn8ePQU8NN7TtPXLWiYi9aBgw7rygyaKcwgZL3r4p",
+        "mint": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+        "owner": "75bxuCHaVdEeV5bK5fWrPvHJSWJLEDFH5ADdQDyY5CWR",
+        "delegated_amount": 0,
+        "frozen": false
+    },
+    {
+        "address": "CBErLynBdLPrHjxrgPaL3iLNZZdec99v7coXSp9pP15M",
+        "mint": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+        "owner": "7HXU2dAbr6L4a7ATBXi6pznJhkzTFbgL2qNKn1YipNSn",
+        "delegated_amount": 0,
+        "frozen": false
+    },
+    {
+        "address": "CEL3ERSkFWYmLiduKeUeLyko6mRbnzt3jURq2vmAULC8",
+        "mint": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+        "owner": "8RwSPsvMauSx2Hpi1CcefcstJ6mdRTdvB2m4SVRa3orH",
+        "delegated_amount": 0,
+        "frozen": false
+    },
+    {
+        "address": "EfnPBDv627CBKeGsmoArJv7dGA41rN39jigAy9DCTxc2",
+        "mint": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+        "owner": "CA9JpqWQLQHZ7v4cKqxuUmfECqBWH6i6BRg9Be5kL1tQ",
+        "delegated_amount": 0,
+        "frozen": false
+    },
+    {
+        "address": "Eq4Hz2Y1wQKiLZ4DJbtppybeKATn8YrxZjCRAbj3x6KN",
+        "mint": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+        "owner": "FDd863uYWPJwwnXv78koHTSxHRvMANoHuteGSaTqUBtF",
+        "delegated_amount": 0,
+        "frozen": false
+    },
+    {
+        "address": "FGLMheptPrdv7Vw7njGVDbZFJB8XwSddtepzDMY4j5Y2",
+        "mint": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+        "owner": "BUcSrw7qvTsRtcWksoefze6TQpnR8U1P1zevoyi2Rxsm",
+        "delegated_amount": 0,
+        "frozen": false
+    },
+    {
+        "address": "Gp2yS8ieSyEsaZLhiAaWzEPnR9bt3QsER3towfWzwvdB",
+        "mint": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+        "owner": "5BLoQ6LN4dvN5KWvT1kjd5C2fCd78Ab3NUsrQniQJW2o",
+        "delegated_amount": 0,
+        "frozen": false
+    }
+]
